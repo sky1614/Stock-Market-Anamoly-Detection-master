@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stock Market Anomaly Detection: GME Analysis
 
 ## Project Overview
@@ -122,4 +122,3 @@ For any queries or discussions related to this project, please open an issue in 
 =======
 # Stock-Market-Anamoly-detection
 This model will detect the anamolies in stock market
->>>>>>> 38e173b4b441a2c2ba34b72910f8a78ee270966d
