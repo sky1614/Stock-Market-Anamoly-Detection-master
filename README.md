@@ -4,9 +4,6 @@
 ## Project Overview
 
 
-https://github.com/user-attachments/assets/d1b5c802-1635-44d7-b92c-d341fd908c91
-
-
 This project focuses on detecting anomalies in the stock price data of GameStop (GME) using multiple machine learning techniques. We implement and compare various anomaly detection methods to identify unusual patterns or events in the stock's behavior, providing insights into market dynamics and potential trading opportunities.
 
 ## Features
