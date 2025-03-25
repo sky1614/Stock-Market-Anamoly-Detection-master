@@ -3,6 +3,7 @@
 
 ## Project Overview
 
+Here is my Linkedin link to see the demo video for the working of this model: https://www.linkedin.com/posts/swapnil-utkarsh_datascience-finance-machinelearning-activity-7310198388925308928-geNS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNdvNEBBKXeognEUsoIijnL65TK-GwMuk0
 
 This project focuses on detecting anomalies in the stock price data of GameStop (GME) using multiple machine learning techniques. We implement and compare various anomaly detection methods to identify unusual patterns or events in the stock's behavior, providing insights into market dynamics and potential trading opportunities.
 
